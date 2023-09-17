@@ -1,0 +1,41 @@
+---
+id: 88686573
+name: Nimble Angler
+type: Effect Monster
+frameType: effect
+desc: 'If this card is sent from the hand or Deck to the Graveyard: You can Special
+  Summon up to 2 Level 3 or lower "Nimble" monsters from your Deck, except "Nimble
+  Angler".'
+atk: 600
+def: 100
+level: 2
+race: Fish
+attribute: WATER
+archetype: Nimble
+card_sets:
+- set_name: Abyss Rising
+  set_code: ABYR-EN031
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '6.03'
+- set_name: Maze of Memories
+  set_code: MAZE-EN042
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+- set_name: OTS Tournament Pack 22
+  set_code: OP22-EN004
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '0'
+card_images:
+- id: 88686573
+  image_url: https://images.ygoprodeck.com/images/cards/88686573.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/88686573.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/88686573.jpg
+card_prices:
+- cardmarket_price: '0.10'
+  tcgplayer_price: '0.20'
+  ebay_price: '0.99'
+  amazon_price: '4.48'
+  coolstuffinc_price: '0.79'
